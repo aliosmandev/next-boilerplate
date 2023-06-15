@@ -27,7 +27,7 @@ Follow the steps below to use the project:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/next-boilerplate.git
+   git clone https://github.com/osmandlsmn/next-boilerplate.git
    ```
 
 2. Install the dependencies:
